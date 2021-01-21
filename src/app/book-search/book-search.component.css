@@ -1,0 +1,41 @@
+/* BookSearch private styles */
+.search-result li {
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 473px;
+    height: 20px;
+    padding: 15px;
+    background-color: rgb(242, 248, 212);
+    cursor: pointer;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .search-result li:hover {
+    background-color: #f0ddd2;
+  }
+  
+  .search-result li a {
+    color: rgb(145, 67, 16);
+    display: block;
+    text-decoration: none;
+  }
+  
+  .search-result li a:hover {
+    color: white;
+  }
+  .search-result li a:active {
+    color: white;
+  }
+  #search-box {
+    width: 500px;
+    height: 30px;
+    font-size: medium;
+  }
+  
+  
+  ul.search-result {
+    margin-top: 0;
+    padding-left: 0;
+  }

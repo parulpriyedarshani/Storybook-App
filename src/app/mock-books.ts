@@ -1,0 +1,31 @@
+import { Book } from './book';
+//array constant
+export const BOOKS: Book[] = [
+    { id: 11, name: 'The Nutcracker'},
+    { id: 12, name: 'The Princess And Pauper'},
+    { id: 13, name: 'Rapunzel'},
+    { id: 14, name: 'Magic Of The Pegasus'},
+    { id: 15, name: 'Thumbelina'},
+    { id: 16, name: 'Rumpelstiltskin'},
+    { id: 17, name: 'Cindrella'},
+    { id: 18, name: 'The Little Mermaid'},
+    { id: 19, name: 'Mermaidia'},
+    { id: 21, name: 'Puss In Boots'},
+    { id: 22, name: 'The Frog Princess'},
+    { id: 23, name: 'Fairytopia'},
+    { id: 24, name: 'Aladdin'},
+    { id: 25, name: 'Goldilocks And The Bears'},
+    { id: 26, name: 'The Island Princess'},
+    { id: 27, name: 'Alice In Wonderland'},
+    { id: 28, name: 'The Twelve Princesses'},
+    { id: 29, name: 'Heidi'},
+    { id: 30, name: 'The Kings New Clothes'},
+    { id: 31, name: 'The Three Musketeers'},
+    { id: 32, name: 'Snow White'},
+    { id: 33, name: 'The Diamond Castle'},
+    { id: 34, name: 'A Christmas Carol'},
+    { id: 35, name: 'Sleeping Beauty'},
+    { id: 36, name: 'The Secret Door'},
+    { id: 37, name: 'Beauty And The Beast'},
+
+];
